@@ -7,7 +7,7 @@ A smiple and lightweight frameLayout which handles the switching between Loading
              
 ##效果图
 ----
-![effect gif](https://github.com/cuishijie1991/LoadingLayout/blob/master/loadinglayout.gif)    
+![effect gif](https://github.com/cuishijie1991/LoadingLayout/blob/master/loadingLayout.gif)    
 
 
 ##用法
